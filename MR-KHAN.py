@@ -27,7 +27,7 @@ print('\033[95;1m[\x1b[38;5;50m+\033[95;1m] \x1b[38;5;50mCHECKING UPDATE...? ')
 os.system("espeak -a 300 \"Checking,Update,\"")
 time.sleep(2)
 #os.system('clear')
-print('\033[91;1m[\x1b[31;5;50m+\033[91;1m] \x1b[31;5;50mUPDATE VERSHON 6.1...! ')
+print('\033[91;1m[\x1b[31;5;50m+\033[91;1m] \x1b[31;5;50mUPDATE VERSHON 0.1...! ')
 os.system("espeak -a 300 \"UPDATE VERSION 0.1,\"")
 time.sleep(2)
 #os.system('clear')
@@ -746,15 +746,15 @@ logo ="""
 ███████ ██   ██ ██ ██       ██████                                              
                                         
  ╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗
- ║\33[0;95m[<🕌Assalamualaikum"Mind It,'You Will Never Mr Shipu🕴️>]\033[0;95m║
+ ║\33[0;95m[<🕌Assalamualaikum"Mind It,'You Will Never Alone🕴️>]\033[0;95m║
  ╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝
 \033[1;31m==================================================
-[] AUTHOR       :      FUCK
-[] TOOLS        :     𝐅𝐈𝐋𝐄-𝐂𝐋𝐎𝐍𝐈𝐍𝐆
-[] TYPE         :      𝗣𝗔𝗜𝗗(𝐔𝐬𝐞𝐫 𝐎𝐧𝐥𝐲)
-[] FACEBOOK     :      MR SHIPU
-[] VERSION      :      0.1
-[] MESSENGER    :      MR SHIPU 𝗧𝗲𝗿𝗺𝘂𝘅 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆
+[] AUTHOR       :     FILE CLONING
+[] TOOLS        :     FUCK
+[] TYPE         :     PAID(FREE USER NOT ALLOW)
+[] FACEBOOK     :     SHIPU KHAN
+[] VERSION      :     0.1
+[] MESSENGER    :     MR ALONE SHIPU TERMUX ZOON
 =================================================="\033[1;23m"""                                
 balpakna =("""\x1b[38;5;50m══════════════════════════════════════════════════""")    
 meyermarexudi =(""" \033[0;97m=============================================""")    
@@ -784,11 +784,11 @@ def meyexudi():
      # print(" \033[32;1m[+] Your Kay : "+id)
       print(' \x1b[38;5;208m╔══[𝟷]💥  FREE-FIRE-TIK-TOK- ID CLONING')      
       print(' \x1b[1;98m║══[𝟸]💥  ONLY ACTIVE ID CLONE 100%')
-      print(' \x1b[1;93m║══[𝟸]💥  CP ID WILL BE LOGIN 80%')
+      print(' \x1b[1;93m║══[𝟸]💥  CP ID WILL BE LOGIN 40%')
       print(' \x1b[1;97m║══[𝟸]💥  WI-FI  AND DATA BOTH WORKING 100%')
-      print(' \x1b[1;95m║══[𝟸]💥  15 DAY 100 TAKA ')
-      print(' \x1b[38;5;50m║══[𝟸]💥  30 DAY 200 TAKA ')
-      os.system('espeak -a 300 " Hello,   Sir,  Assalamualaikum,   I,   Am,    Robot,   of,   MR,   SHIPU,    Please,   Send,   Your,   Key,"')
+      print(' \x1b[1;95m║══[𝟸]💥  15 DAY 500 TAKA ')
+      print(' \x1b[38;5;50m║══[𝟸]💥  30 DAY 800 TAKA ')
+      os.system('espeak -a 300 " Hello,   Sir,  Assalamualaikum,   I,   Am,    Robot,   of,   MR,   ALONE,  SHIPU,    Please,   Send,   Your,   Key,"')
       print(" \x1b[0m║══[𝟸] YOUR KEY : "+id)
       input(' \033[1;30m╚══[𝟹] IF U WANT TO BUY THEN PRESS ENTER ')
       tks = ('Hello%20Sir%20!%20Please%20Approve%20My%20Token%20The%20Token%20Is%20:%20'+id);os.system('am start https://wa.me/+8801797970064?text='+tks),approval()      
@@ -803,7 +803,7 @@ def naima():
 print(logo)
 os.system('espeak -a 300 " Please,   Text,   Your,   Real,   Name,   Sir,"')
 uname =input('\033[1;91m[\033[1;91m•\033[1;91m]\033[1;33m WHAT IS YOUR NAME \033[1;91m: \33[1;31m')
-os.system('espeak -a 300 " Welcome,   to,  MR.ALONE,  PAID,   Tools"')
+os.system('espeak -a 300 " Welcome,   to,  MR.ALONE. SHIPU,  PAID,   Tools"')
 def back():
 	login()
 	
@@ -815,7 +815,7 @@ while attemps < 12345677901:
     username = input('\033[1;91m[\033[1;92m√\033[1;91m]\x1b[38;5;50m ENTER USERNAME: ')
     password = input('\033[1;95m[\033[1;95m√\033[1;95m]\x1b[38;5;50m ENTER PASSWORD: ')
 
-    if username == 'V' and password == '6':
+    if username == 'sk' and password == 'vai':
         print(' \033[0;95mYou Have Successfully Logged in.')
         os.system('espeak -a 300 " Successfully,   Log,  In,  Sir"')
         break
@@ -1101,7 +1101,7 @@ def dump_massal():
 def crack_file():
     print('\033[0;93m==================')
     os.system('espeak -a 300 " your file name"')
-    print('\033[1;36m[ Put File Example:  /sdcard/king.txt  Etc...]')
+    print('\033[1;36m[ Put File Example:  /sdcard/shipu.txt  Etc...]')
     o = input('\033[95;1m[\033[92;1m+\033[95;1m] INPut FILE NAME :\033[95;1m ')
     try:lin = open(o).read().splitlines()
     except:
