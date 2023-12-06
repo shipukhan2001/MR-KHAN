@@ -807,14 +807,21 @@ def animation(u):
     for e in u + "\n":sys.stdout.write(e);sys.stdout.flush();time.sleep(0.01)
 #os.system("xdg-open https://www.facebook.com/shipukhan72?mibextid=ZbWKwL.Ok.Bro")
 #------------------[ LOGO-LAKNAT ]-----------------#
-logo = f"""\x1b[38;5;46m
+logo = f"""\x1b[38;5;46m                                                                                          
 
 
-____ ____ ______________ ____ ___ ___ __ ____ ____ _ ___ ___ 6MMMMb\`MM' `MM`MM`MMMMMMMb.`MM' `M' `MM d' `MM' `MM' dM. `MM\ `M' 6M' ` MM MM MM MM `Mb MM M MM d' MM MM ,MMb MMM\ M MM MM MM MM MM MM MM M MM d' MM MM d'YM. M\MM\ M YM. MM MM MM MM MM MM M MM d' MM MM ,P `Mb M \MM\ M YMMMMb MMMMMMMMMM MM MM .M9 MM M MMd' MMMMMMMMMM d' YM. M \MM\ M `Mb MM MM MM MMMMMMM9' MM M MMYM. MM MM ,P `Mb M \MM\ M MM MM MM MM MM MM M MM YM. MM MM d' YM. M \MM\M MM MM MM MM MM YM M MM YM. MM MM ,MMMMMMMMb M \MMM L ,M9 MM MM MM MM 8b d8 MM YM. MM MM d' YM. M \MM MYMMMM9 _MM_ _MM_MM_MM_ YMMMMM9 _MM_ YM._MM_ _MM_dM_ _dMM_M_ \M 
-
-:......:::..:::::..::....::..::::::::::.......:::
+  ██████  ██░ ██  ██▓ ██▓███   █    ██    
+▒██    ▒ ▓██░ ██▒▓██▒▓██░  ██▒ ██  ▓██▒   
+░ ▓██▄   ▒██▀▀██░▒██▒▓██░ ██▓▒▓██  ▒██░   
+  ▒   ██▒░▓█ ░██ ░██░▒██▄█▓▒ ▒▓▓█  ░██░   
+▒██████▒▒░▓█▒░██▓░██░▒██▒ ░  ░▒▒█████▓    
+▒ ▒▓▒ ▒ ░ ▒ ░░▒░▒░▓  ▒▓▒░ ░  ░░▒▓▒ ▒ ▒    
+░ ░▒  ░ ░ ▒ ░▒░ ░ ▒ ░░▒ ░     ░░▒░ ░ ░    
+░  ░  ░   ░  ░░ ░ ▒ ░░░        ░░░ ░ ░    
+      ░   ░  ░  ░ ░              ░        
+                                          
   \033[0;92m═════════════════════════════════════════════
-\033[0;92m • CREATE : MD SHIPU KHAN (🇧🇩)
+\033[0;92m • CREATE : MD SHIPU KHAN (🥀)
 \033[0;92m • RANDOM+FILE CLONING FIRE (🥵)
 \033[0;92m • VERSION CODE [0.1] FIRE (😍)
   \033[0;92m═════════════════════════════════════════════ \033[1;31m"""
@@ -922,7 +929,7 @@ def menu():
     print(f"""\033[97;1m[\033[92;1m1\033[97;1m] \033[0;95mFILE CLONING         """)
     print("""\033[97;1m[\033[92;1m2\033[97;1m] \033[0;93mCONTACT WITH ADMIN""")
     print(f"""\033[97;1m[\033[92;1m3\033[97;1m] \033[92;1mCHECK OK IDz   """)
-    print("""\033[97;1m[\033[92;1m4\033[97;1m] \033[0;96mRANDOM CLONING""")
+    print("""\033[97;1m[\033[92;1m4\033[97;1m] \033[0;96mRANDOM CLONING (Coming)""")
     print("""\033[97;1m[\033[92;1m0\033[97;1m] \033[0;91mEXIT""")
     print('\033[0;97m=================')
     Rakib = input('\x1b[1;92m[+] CHOOSE: ')
